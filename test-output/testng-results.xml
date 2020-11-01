@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="176" started-at="2020-11-01T12:26:25Z" finished-at="2020-11-01T12:26:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="176" started-at="2020-11-01T12:26:25Z" finished-at="2020-11-01T12:26:25Z">
+      <class name="tryGitAndMaven.Jenkins.testbasic">
+        <test-method status="PASS" signature="basic()[pri:0, instance:tryGitAndMaven.Jenkins.testbasic@2c9f9fb0]" name="basic" duration-ms="51" started-at="2020-11-01T17:56:25Z" finished-at="2020-11-01T17:56:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic -->
+      </class> <!-- tryGitAndMaven.Jenkins.testbasic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
