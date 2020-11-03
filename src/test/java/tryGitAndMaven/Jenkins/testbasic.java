@@ -8,4 +8,12 @@ public class testbasic {
 	public void basic(){
 		System.out.println("Hello From Maven and Git integration");
 	}
+	@Test
+	public void basic2(){
+		System.out.println("Executing Test calsses successfully");
+	}
+	@Test
+	public void basic3(){
+		System.out.println("Hello world");
+	}
 }
